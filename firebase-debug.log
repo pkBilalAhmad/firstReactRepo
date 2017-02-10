@@ -1,0 +1,42 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v7.3.0
+[debug] Time:         Fri Feb 10 2017 14:41:47 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] Error: EPERM: operation not permitted, rename 'C:\Users\Owner\.config\configstore\firebase-tools.json.1468853328' -> 'C:\Users\Owner\.config\configstore\firebase-tools.json'
+    at Object.fs.renameSync (fs.js:741:18)
+    at Function.writeFileSync [as sync] (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\write-file-atomic\index.js:95:8)
+    at Configstore.set (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:62:21)
+    at Configstore.set (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:93:11)
+    at Request._callback (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\lib\fetchMOTD.js:51:19)
+    at Request.self.callback (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:1081:10)
+    at emitOne (events.js:96:13)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v7.3.0
+[debug] Time:         Fri Feb 10 2017 14:41:59 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] Error: EPERM: operation not permitted, rename 'C:\Users\Owner\.config\configstore\firebase-tools.json.446069792' -> 'C:\Users\Owner\.config\configstore\firebase-tools.json'
+    at Object.fs.renameSync (fs.js:741:18)
+    at Function.writeFileSync [as sync] (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\write-file-atomic\index.js:95:8)
+    at Configstore.set (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:62:21)
+    at Configstore.set (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:93:11)
+    at Request._callback (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\lib\fetchMOTD.js:51:19)
+    at Request.self.callback (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (C:\Users\Owner\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:1081:10)
+    at emitOne (events.js:96:13)
+[error] 
+[error] Error: An unexpected error has occurred.
