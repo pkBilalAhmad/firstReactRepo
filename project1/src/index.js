@@ -67,7 +67,7 @@ class Index extends React.Component {
                   returnTo: this.props.location.pathname }
                 }
               }>
-              <img style={{ margin: 10 }} src={picture.src} height="100" />
+              <img style={{ margin: 10 }} src={picture.src} height="100" role="presentation"/>
             </Link>
           ))}
         </div>
