@@ -1,0 +1,63 @@
+/*1  .menu-blue-eg a:hover{
+2   .menu-hvr-red a:hover{*/
+
+
+/*menu colored eg*/
+.menu-red-eg a:hover, .menu-red-eg li:hover{
+    background-color: #800 !important;
+    transition: 0.4s;
+    color: #fff !important;
+    border-radius: 50%;
+}.menu-green-eg a:hover, .menu-green-eg li:hover{
+    background-color: #080 !important;
+    transition: 0.4s;
+    color: #fff !important;
+    border-radius: 50%;
+}
+.menu-blue-eg a:hover, .menu-blue-eg li:hover{
+    background-color: #008 !important;
+    transition: 0.4s;
+    color: #fff !important;
+    border-radius: 50%;
+}
+.menu-white-eg a:hover, .menu-white-eg li:hover{
+    background-color: #fff !important;
+    transition: 0.4s;
+    color: #000 !important;
+    border-radius: 50%;
+}
+.menu-black-eg a:hover, .menu-black-eg li:hover{
+    background-color: #000 !important;
+    transition: 0.4s;
+    color: #fff !important;
+    border-radius: 50%;
+}
+
+/*mene hover clor*/
+
+.menu-red a:hover, .menu-red li:hover{
+    background: #800 !important;
+    color: #fff;    
+    transition: 0.5s;
+}
+.menu-green a:hover, .menu-green li:hover{
+    background: #080 !important;
+    color: #fff;
+    transition: 0.4s;
+}
+.menu-blue a:hover, .menu-blue li:hover{
+    background: #008 !important;
+    color: #fff;
+    transition: 0.4s;
+}
+.menu-white a:hover, .menu-white li:hover{
+    background-color: #fff !important;
+    transition: 0.4s;
+    color: #000 !important;
+ 
+}
+.menu-black a:hover,.menu-black li:hover{
+    background: #000 !important;
+    color: #fff;
+    transition: 0.4s;
+}

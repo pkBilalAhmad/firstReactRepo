@@ -1,0 +1,62 @@
+.menu-mov-red-t a:hover{
+    color: #fff ;
+    background: #800 !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-green-t a:hover{
+    color: #fff ;
+    background: #080 !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-blue-t a:hover{
+    color: #fff ;
+    background: #008 !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-black-t a:hover{
+    color: #fff ;
+    background: #000 !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-white-t a:hover{
+    color: #000 ;
+    background: #fff !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+
+/*LIST MOVE */
+.menu-mov-blue  a:hover{
+    color: #fff ;
+    background: #008 !important;
+    margin-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-green  a:hover{
+    color: #fff ;
+    background: #080 !important;
+    margin-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-black  a:hover{
+    color: #fff ;
+    background: #000 !important;
+    margin-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-white  a:hover{
+    color: #000 ;
+    background: #fff !important;
+    margin-left: 30px;
+    transition: 0.5s;
+}
+.menu-mov-red  a:hover{
+    color: #fff ;
+    background: #800 !important;
+    margin-left: 30px;
+    transition: 0.5s;
+}

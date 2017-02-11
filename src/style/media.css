@@ -1,0 +1,10 @@
+@media only screen and (max-width:768px ){
+    .sm-p-fnt{
+        font-size: 14px !important;
+    }
+    .jumbotron{
+        padding: 25px;
+    }
+}
+
+

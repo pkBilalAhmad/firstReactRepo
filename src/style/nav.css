@@ -1,0 +1,62 @@
+
+.nav-hvr li a:hover{
+    background-color: white !important;
+    color: black !important;
+}
+
+/* nav link colors */
+
+.nav-t-white a{
+    color: #ffffff !important;
+}
+.nav-t-black a{
+    color: #000000 !important;
+}
+.nav-t-green a{
+    color: #008000 !important;
+}
+.nav-t-orange a{
+    color: #ffa500 !important;
+}
+.nav-t-red a{
+    color: #ff0000 !important;
+}
+.nav-t-dimgray a{
+    color: #d3d3d3 !important;
+}
+
+@media screen and (min-width: 768px){
+    .sm-bg-white{
+        background-color: #ffffff;
+    }
+    .sm-bg-green{
+        background-color: #008000;
+    }
+    .sm-bg-red{
+        background-color: #ff0000;
+    }
+    .sm-bg-blue{
+        background-color: #0000ff;
+    }
+    .sm-bg-orange{
+        background-color: #ffa500;
+    }
+    .sm-t-white{
+        color: #ffffff;
+    }
+    .sm-t-black{
+        color: #ffffff;
+    }
+    .sm-t-white{
+        color: #ffffff;
+    }
+    .sm-t-white{
+        color: #ffffff;
+    }
+    .sm-t-white{
+        color: #ffffff;
+    }
+    .sm-t-white{
+        color: #ffffff;
+    }
+}

@@ -1,0 +1,48 @@
+/*Main root page*/
+.logo{
+    font-style: oblique;    
+}
+.wcs-brnd{
+    
+}
+.navbar{
+    border-radius: 0px;
+    margin: 0px;
+}
+
+.ftr{
+    margin-top: 30px;
+    
+}
+.hd-p{
+    max-width: 550px;
+    margin: auto;
+}
+.bk1-img{    
+   background-image: url("../images/txt/21.jpg");
+   
+}
+body{
+    background: url("../images/txt/3.jpg");
+}
+/*Sub Dir pages*/
+
+.jumbotron{
+    margin: 0px;
+    padding: 10px;
+}
+
+.t-mov-red:hover{
+    color: #fff;
+    background: #800 !important;
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.img-100 div a img{
+    width: 90%;
+    height: auto;
+}
+.img-100 div a img:hover{
+    box-shadow: -6px -6px 9px red, 6px 6px 9px blue;    
+}
+

@@ -1,0 +1,113 @@
+/* padding in 4 side */
+
+.pd-7{
+    padding: 7px;
+}
+.pd-12{
+    padding: 12px;
+}
+.pd-15{
+    padding: 15px;
+}
+.pd-25{
+    padding: 25px;
+}
+.pd-40{
+    padding: 40px;
+}
+.pd-50{
+    padding: 50px;
+}
+.pd-60{
+    padding: 60px;
+}
+.pd-70{
+    padding: 70px;
+}
+.pd-80{
+    padding: 80px;
+}
+.pd-90{
+    padding: 90px;
+}
+.pd-100{
+    padding: 100px;
+}
+
+.pd-200{
+    padding: 200px;
+}
+
+
+/* padding left and right */
+.pd-y-7{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.pd-y-12{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.pd-y-15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.pd-y-25{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.pd-y-40{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.pd-y-50{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.pd-y-100{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.pd-y-200{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+
+/* padding top and bottom */
+.pd-x-7{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.pd-x-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.pd-x-15{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.pd-x-25{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.pd-x-40{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.pd-x-50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.pd-x-100{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.pd-x-200{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}

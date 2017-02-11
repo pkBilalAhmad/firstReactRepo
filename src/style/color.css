@@ -1,0 +1,93 @@
+.green{
+    background-color: #008000 !important;
+}
+.lightgreen{
+    background-color: #4CAF50 !important;
+}
+.darkgreen{
+    background-color: #006400 !important;
+}
+.black{
+    background-color: black !important;
+}
+.dimblack{
+    background-color: #535353 !important;
+}
+.orange{
+    background-color: #f4511e !important;
+}
+.blue{
+    background-color: blue !important;
+}
+.lightblue{
+    background-color: #4584EF !important;
+}
+.skyblue{
+    background-color: skyblue !important;
+}
+.limblue{
+    background-color: #2162E7;
+}
+.red{
+    background-color: red !important;
+}
+.darkred{
+    background-color: #7f2a2a !important;
+}
+.lightred{
+    background-color: #f99393 !important;
+}
+.gray{
+    background-color: gray !important;
+}
+.lightgray{
+    background-color: lightgray !important;
+}
+.dimgray{
+    background-color: #e2e2e2 !important;
+}
+.white{
+    background-color: #fff !important;
+}
+.t-white{
+    color: white !important;
+}
+.t-black{
+    color: black !important;
+}
+.t-blue{
+    color: blue !important;
+}
+.t-orange{
+    color: #ff4500 !important;
+}
+.t-red{
+    color: red !important;
+}
+.t-darkgreen{
+    color: darkgreen !important;
+}
+.t-gray{
+    color: gray !important;
+}
+.a-white a{
+    color : #fff !important;
+}
+.a-white-hvr a:hover{
+    color : #fff !important;
+}
+.a-black a{
+    color : #000 !important;
+}
+.a-black-hvr a:hover{
+    color : #000 !important;
+}
+.a-gray a{
+    color : #808080 !important;
+}
+.a-gray-hvr a:hover{
+    color : #808080 !important;
+}
+.a-blue a{
+    color :#00f !important;
+}

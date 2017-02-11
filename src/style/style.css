@@ -1,0 +1,55 @@
+body{
+    background: gray;
+}
+.navbar{
+    margin: 0px;
+    border-radius: 0px;
+    background: #2162E7;
+    border: none;
+    font-family: monospace;
+    font-size: 20px;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.jumbotron{
+    background: #2162E7;
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+    margin: 0px;
+}
+.nav ul li{
+    border-bottom: 1px solid gray;
+}
+.s-items{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+    text-shadow: 2px 3px 9px gray;
+    
+}
+
+.s-items:hover{
+    box-shadow: 3px 5px 34px blue;
+}
+@media (min-width: @screen-sm-min) {
+    body{
+        font-size: 14px;
+        background: black;
+    }
+}
+
+@media only screen and ( max-width: 1000px){    
+    .hd{
+        display: none !important;
+    }
+}
+
+@media only screen and ( min-width: 600px){    
+    .hd{
+        display: none !important;
+    }
+}

@@ -1,0 +1,12 @@
+
+.d-box{
+    border: 2px solid lightgray !important;
+    border-radius: 5px !important;
+    width: 95% !important;
+    padding: 12px !important;
+    
+}
+.d-box-hvr:hover{
+    border: 2px solid blue !important;
+    transition: .5s;
+}

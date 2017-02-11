@@ -1,0 +1,114 @@
+/* urdu font rools*/
+@font-face {
+    font-family: jnn;
+    src: url("../fonts/urdu/jnn.ttf");
+}
+@font-face {
+    font-family: adl;
+    src: url("../fonts/urdu/adl.ttf");
+}
+
+@font-face {
+    font-family: arbc-bld;
+    src: url("../fonts/urdu/arbc-bld.ttf");
+}
+
+.urdu-p{
+    font-family: jnn;
+    direction: rtl;
+    font-size: 21px;
+}
+.fnt-jnn{
+    font-family: jnn;
+    direction: rtl;    
+}
+
+.fnt-adl{
+    font-family: adl;
+    direction: rtl;
+    
+}
+.fnt-arb{
+    font-family: arbc-bld;
+    direction: rtl;
+    
+}
+
+/* english font rools*/
+@font-face {
+    font-family: moshn;
+    src: url("../fonts/en/moshn.ttf");
+}
+@font-face {
+    font-family: lobs;
+    src: url("../fonts/en/lobs.ttf");
+}
+
+@font-face {
+    font-family: pcfc;
+    src: url("../fonts/en/pcfc.ttf");
+}
+
+@font-face {
+    font-family: bngr;
+    src: url("../fonts/en/bngr.ttf");
+}
+.fnt-ver{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fnt-go{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.fnt-cr{
+    font-family: cursive;
+}
+.fnt-co{
+    font-family: Courier New, Courier, monospace;
+}
+/* font size */
+.fnt-12{
+    font-size: 12px;
+}
+.fnt-14{
+    font-size: 14px;
+}
+.fnt-16{
+    font-size: 16px;
+}
+.fnt-18{
+    font-size: 18px;
+}
+.fnt-20{
+    font-size: 20px;
+}
+.fnt-25{
+    font-size: 25px;
+}
+.fnt-30{
+    font-size: 30px;
+}
+
+.fnt-35{
+    font-size: 35px;
+}
+.fnt-40{
+    font-size: 40px;
+}
+.fnt-50{
+    font-size: 50px;
+}
+.fnt-60{
+    font-size: 60px;
+}
+.fnt-70{
+    font-size: 70px;
+}
+.fnt-80{
+    font-size: 80px;
+}
+.fnt-90{
+    font-size: 90px;
+}
+.fnt-100{
+    font-size: 100px;
+}
